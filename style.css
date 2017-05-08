@@ -1,0 +1,17 @@
+html{
+	height:100%;
+    width:100%;
+}
+
+body{
+    font-family: sans-serif;
+    width:1200px;
+    height:720px;
+    background-color:rgba(69,69,69,1);
+    margin:0 auto;
+}
+
+#glCanvas{
+    width:1200px;
+    height:720px;
+}
